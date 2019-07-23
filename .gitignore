@@ -1,0 +1,6 @@
+/.vs
+/apsys.tigo.dashboard/bin
+/apsys.tigo.dashboard/obj
+/apsys.tigo.dashboard.tests/bin
+/apsys.tigo.dashboard.tests/obj
+/packages

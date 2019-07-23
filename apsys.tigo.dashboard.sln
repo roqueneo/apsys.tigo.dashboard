@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apsys.tigo.dashboard", "apsys.tigo.dashboard\apsys.tigo.dashboard.csproj", "{0B02DE3C-C5A0-4873-8AA2-8A42F47B8C77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apsys.tigo.dashboard.tests", "apsys.tigo.dashboard.tests\apsys.tigo.dashboard.tests.csproj", "{32AEECEB-59A0-4A3C-8DE0-B29AAF96D7EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B02DE3C-C5A0-4873-8AA2-8A42F47B8C77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B02DE3C-C5A0-4873-8AA2-8A42F47B8C77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B02DE3C-C5A0-4873-8AA2-8A42F47B8C77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B02DE3C-C5A0-4873-8AA2-8A42F47B8C77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32AEECEB-59A0-4A3C-8DE0-B29AAF96D7EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32AEECEB-59A0-4A3C-8DE0-B29AAF96D7EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32AEECEB-59A0-4A3C-8DE0-B29AAF96D7EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32AEECEB-59A0-4A3C-8DE0-B29AAF96D7EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCA88568-9670-45E9-94DD-281C476D49A3}
+	EndGlobalSection
+EndGlobal
